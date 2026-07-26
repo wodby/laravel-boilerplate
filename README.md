@@ -10,7 +10,7 @@ The starter follows the official Laravel 13 application skeleton and includes:
 - a lightweight health endpoint at `/healthz`
 - feature tests for the landing page and health endpoint
 - GitHub Actions tests on PHP 8.3, 8.4, and 8.5
-- compatibility with the Wodby CI pipeline supplied by the Laravel service
+- a ready-to-use Wodby CI pipeline at `.wodby/pipeline.yml`
 
 ## Local development
 
